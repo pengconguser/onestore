@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    更新一下试试看
                 </div>
 
                 <div class="links">
