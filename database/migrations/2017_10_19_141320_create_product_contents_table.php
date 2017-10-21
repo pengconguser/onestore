@@ -18,7 +18,7 @@ class CreateProductContentsTable extends Migration
             $table->integer('product_id');
             $table->longtext('content');
             $table->timestamps();
-        });
+        }); 
     }
 
     /**
